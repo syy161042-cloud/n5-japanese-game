@@ -1,0 +1,25 @@
+{
+  "name": "N5 かな Quest 日语学习与闯关",
+  "short_name": "N5 Quest",
+  "description": "先学习 N5 单词和语法，再做闯关复习。支持假名标注、日语朗读和学习进度记录。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f2",
+  "theme_color": "#245f49",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
